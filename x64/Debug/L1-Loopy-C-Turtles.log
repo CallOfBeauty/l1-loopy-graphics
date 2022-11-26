@@ -1,0 +1,24 @@
+﻿  main-CTurtle.cpp
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(2356,64): warning C4244: 'argument': conversion from 'cturtle::detail::time_t' to 'unsigned int', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(3300,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(3300,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(3344,98): warning C4244: '*=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(4489,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(4489,1): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned long', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(4881,66): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(4881,47): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(4885,68): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\CTurtle.hpp(4885,49): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(40,2): error C3861: 'makeheli': identifier not found
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(44,25): error C2601: 'makeheli': local function definitions are illegal
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(14): message : this line contains a '{' which has not yet been matched
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(46,3): error C2065: 'turtle': undeclared identifier
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(49,3): error C2065: 'turtle': undeclared identifier
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(51,2): error C2065: 'turtle': undeclared identifier
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(52,2): error C2065: 'turtle': undeclared identifier
+C:\Users\dnten\source\repos\l1-loopy-graphics-CallOfBeauty\main-CTurtle.cpp(53,2): error C2065: 'turtle': undeclared identifier
